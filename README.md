@@ -22,7 +22,7 @@
 
 Старался оформлять ноутбук аккуратно. 
 
-Результаты: 
+### Результаты: 
 
    precision    recall  f1-score   support
 
@@ -41,23 +41,41 @@
    macro avg       0.82      0.82      0.82     10000
 weighted avg       0.82      0.82      0.82     10000
 
-Сводка по классам:
+#### Сводка по классам:
 
 ![image](https://github.com/PikaChuChuMF/ImageProcessing2/assets/138888156/cc15d2f7-5a97-42db-9a71-5d5e70229e52)
 
-Матрица ошибок:
+#### Матрица ошибок:
 
 
 ![image](https://github.com/PikaChuChuMF/ImageProcessing2/assets/138888156/e2f2d5d5-4f22-400d-be4e-255300a4aed2)
 
-Пример изображений с результатми классификации 
+#### Пример изображений с результатми классификации:
 
 (я спациально выбрал не самые удачные кейсы, чтобы было видно, на чем модель ошибается)
 
 
 ![image](https://github.com/PikaChuChuMF/ImageProcessing2/assets/138888156/f1138733-29cf-41ab-ad2a-1a62f5746bca)
 
-Графики c wandb:
+### Графики c wandb:
+
+#### Градиенты:
+
+![image](https://github.com/PikaChuChuMF/ImageProcessing2/assets/138888156/0515d3d9-35aa-4e91-bdb8-4de822617a82)
+
+#### Процесс обучения:
+
+
+![image](https://github.com/PikaChuChuMF/ImageProcessing2/assets/138888156/8e82544a-9468-48bd-a016-a2f8f43ca561)
+
+##### Графики весов:
+
+
+![image](https://github.com/PikaChuChuMF/ImageProcessing2/assets/138888156/202ea981-b012-4359-a69e-c4b8dc360613)
+
+## Выводы
+Эти задания стали для меняы отличной практикой в обраьотке изображений средствами машинного обучения, попдбирал подходы, попрактиковался в pytorch.
+
 
 
 
